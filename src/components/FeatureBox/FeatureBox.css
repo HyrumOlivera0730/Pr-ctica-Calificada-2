@@ -1,0 +1,18 @@
+.feature-box .icon {
+    margin-bottom: 10px;
+    position: absolute; /* Posicionamento absoluto dentro do contexto */
+    bottom: 0; /* Posiciona na parte inferior */
+    right: 10px; /* Posiciona na direita */
+    width: 25%;
+  }
+ 
+  .feature-box h4 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .feature-box p {
+    font-size: 14px;
+    color: #666;
+  }
+  

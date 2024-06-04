@@ -1,0 +1,89 @@
+  .features-section {
+    text-align: center;
+    padding: 10px;
+    background-color: #fafafa;
+    max-width: 1000px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .features-section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-weight: lighter;
+  }
+  
+  .features-section h3 {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .features-section p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 40px;
+  }
+  
+  .features-grid {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .boxEdgeSupervisor{
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.1),
+               -8px 8px 16px rgba(0, 0, 0, 0.1);  
+    padding: 20px;
+    width: 260px;
+    height: 180px;
+    margin: 10px;
+    text-align: left;
+    border-top: solid 4px #50cccc;
+    position: relative;
+  }
+  .boxEdgeBuilder{
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.1),
+                 -8px 8px 16px rgba(0, 0, 0, 0.1);  
+    padding: 20px;
+    width: 260px;
+    height: 180px;
+    margin: 10px;
+    text-align: left;
+    border-top: solid 4px #dd5959;
+    position: relative;
+
+  }
+  .boxEdgeKarma{
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.1),
+                 -8px 8px 16px rgba(0, 0, 0, 0.1);  
+    padding: 20px;
+    width: 260px;
+    height: 180px;
+    margin: 10px;
+    text-align: left;
+    border-top: solid 4px #f3af58;
+    position: relative;
+  }
+  .boxEdgeCalculator{
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.1),
+                 -8px 8px 16px rgba(0, 0, 0, 0.1);  
+    padding: 20px;
+    width: 260px;
+    height: 180px;
+    margin: 10px;
+    text-align: left;
+    border-top: solid 4px #5a9be3;
+    position: relative;
+  }
