@@ -1,6 +1,7 @@
 # Features Section Application
 
 Este é um projeto em React que exibe uma seção de recursos com informações e ícones representativos.
+
 ![demo](/public/demo.png)
 
 ## Visão Geral
