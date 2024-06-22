@@ -28,18 +28,18 @@ const FeaturesSection = () => {
           icon={builder}
         />
         </div>
-        <div className='boxEdgeKarma'>
-        <FeatureBox
-          title="Karma"
-          description="Regularly evaluates our talent to ensure quality"
-          icon={karma}
-        />
-        </div>
         <div className='boxEdgeCalculator'>
         <FeatureBox
           title="Calculator"
           description="Uses data from past projects to provide better delivery estimates"
           icon={calculator}
+        />
+        </div>
+        <div className='boxEdgeKarma'>
+        <FeatureBox
+          title="Karma"
+          description="Regularly evaluates our talent to ensure quality"
+          icon={karma}
         />
         </div>
       </div>

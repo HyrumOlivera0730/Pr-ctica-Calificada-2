@@ -1,8 +1,8 @@
 .feature-box .icon {
     margin-bottom: 10px;
-    position: absolute; /* Posicionamento absoluto dentro do contexto */
-    bottom: 0; /* Posiciona na parte inferior */
-    right: 10px; /* Posiciona na direita */
+    position: absolute; 
+    bottom: 0; 
+    right: 10px; 
     width: 25%;
   }
  

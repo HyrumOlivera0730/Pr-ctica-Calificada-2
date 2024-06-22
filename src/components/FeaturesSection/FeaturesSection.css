@@ -46,6 +46,8 @@
     text-align: left;
     border-top: solid 4px #50cccc;
     position: relative;
+    top: 100px;
+    left: 50px;
   }
   .boxEdgeBuilder{
     background-color: #fff;
@@ -86,4 +88,6 @@
     text-align: left;
     border-top: solid 4px #5a9be3;
     position: relative;
+    top: 100px;
+    right: 50px;
   }
