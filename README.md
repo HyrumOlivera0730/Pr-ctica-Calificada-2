@@ -2,8 +2,8 @@
 
 Este é um projeto em React que exibe uma seção de recursos com informações e ícones representativos.
 
-![demo](/public/demo.png)
-
+![desktop](/public/desktop.png)
+![Mobile](/public/mobile.png)
 ## Visão Geral
 
 Este projeto é uma aplicação React que apresenta uma seção de recursos com quatro boxes informativos. Cada box contém um título, uma descrição e um ícone ilustrativo.
