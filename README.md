@@ -6,7 +6,7 @@ Este é um projeto em React que exibe uma seção de recursos com informações 
 ![Mobile](/public/mobile.png)
 ## Visão Geral
 
-Este projeto é uma aplicação React que apresenta uma seção de recursos com quatro boxes informativos. Cada box contém um título, uma descrição e um ícone ilustrativo.
+Este projeto é uma aplicação React que apresenta uma seção de recursos com quatro boxes informativos. Cada box contém um título, uma descrição e um ícone ilustrativo. Design foi extraído de **[Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)**
 
 ## Estrutura do Projeto
 ```plaintext
